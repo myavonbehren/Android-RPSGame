@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Mya Von Behren
+     Project 5
+     June 6, 2024
+
+     Defines color values, include color definitions for black and white -->
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

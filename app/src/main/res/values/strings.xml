@@ -1,0 +1,21 @@
+<!-- Mya Von Behren
+     Project 5
+     June 6, 2024
+
+     Extracted strings for the assignment -->
+
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="choose_one">Choose One:</string>
+    <string name="player">Player</string>
+    <string name="computer">Computer</string>
+    <string name="player_score">Player Score: </string>
+    <string name="computer_score">Computer Score: </string>
+    <string name="play_rock_paper_scissors">Play Rock Paper Scissors</string>
+    <string name="reset">Reset</string>
+    <string name="player_score_txt_view">Player Score: %1$s</string>
+    <string name="computer_score_txt_view">Computer Score: %1$s</string>
+</resources>
